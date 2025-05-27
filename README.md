@@ -1,1 +1,5 @@
 # Data-Visualization-and-storytelling
+
+
+In my Power BI dashboard, I used several visualizations to provide comprehensive insights into product pricing and customer behavior. To compare products effectively, I implemented a slicer that filters the average discounted price for each product. A clustered column chart displays both the sum of actual prices and the sum of discounted prices per product, making it easier to understand the overall impact of discounts. I also included a pie chart to illustrate the discount percentage applied to each product, with filters for quick comparison between products. A table chart shows how much the price was reduced based on the discount percentage, offering a detailed breakdown. To track which users purchased specific products, I used a multi-row card visualization that highlights user and product ID combinations. Additionally, I incorporated a Q&A visual, allowing users to ask natural language questions and receive immediate, data-driven answers, enhancing the interactivity and user experience of the report.
+
